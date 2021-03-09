@@ -13,13 +13,11 @@ const Layout: React.FC<Props> = (props) => (
       html {
         box-sizing: border-box;
       }
-
       *,
       *:before,
       *:after {
         box-sizing: inherit;
       }
-
       body {
         margin: 0;
         padding: 0;
@@ -29,12 +27,10 @@ const Layout: React.FC<Props> = (props) => (
           "Segoe UI Symbol";
         background: rgba(0, 0, 0, 0.05);
       }
-
       input,
       textarea {
         font-size: 16px;
       }
-
       button {
         cursor: pointer;
       }
