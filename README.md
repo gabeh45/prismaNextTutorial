@@ -1,3 +1,4 @@
-# Fullstack Authentication Example with Next.js and NextAuth.js
+# Prisma and Next.js example by nikolasburk
 
-This is the starter project for the fullstack tutorial with Next.js and Prisma. You can find the final version of this project in the [`final`](https://github.com/prisma/blogr-nextjs-prisma/tree/final) branch of this repo.
+https://vercel.com/guides/nextjs-prisma-postgres#Step-5-Set-up-GitHub-authentication-with-NextAuth
+It is currently not working with a type error, although the dev build works.
